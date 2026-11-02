@@ -1,0 +1,41 @@
+MenuItemID,ItemName,Category,Price
+1,Margherita,Pizza,10.50
+2,Pepperoni,Pizza,11.50
+3,Hawaiian,Pizza,11.50
+4,BBQ Chicken,Pizza,13.00
+5,Meat Feast,Pizza,14.50
+6,Vegetarian Supreme,Pizza,12.50
+7,Four Cheese,Pizza,12.00
+8,Diavola,Pizza,13.50
+9,Mushroom and Truffle,Pizza,15.50
+10,Buffalo Chicken,Pizza,13.50
+11,Spinach and Ricotta,Pizza,12.00
+12,Prosciutto,Pizza,14.00
+13,Nduja,Pizza,14.50
+14,Mexican Hot,Pizza,13.00
+15,Farmhouse,Pizza,12.50
+16,Garlic Bread,Side,4.00
+17,Cheesy Garlic Bread,Side,4.80
+18,Potato Wedges,Side,4.50
+19,Onion Rings,Side,4.20
+20,Mozzarella Sticks,Side,5.50
+21,Chicken Wings,Side,6.50
+22,Coleslaw,Side,3.00
+23,Side Salad,Side,3.50
+24,Garlic Dip,Side,1.00
+25,BBQ Dip,Side,1.00
+26,Coke 500ml,Drink,2.50
+27,Diet Coke 500ml,Drink,2.50
+28,Sprite 500ml,Drink,2.50
+29,Fanta Orange 500ml,Drink,2.50
+30,Still Water 500ml,Drink,2.00
+31,Sparkling Water 500ml,Drink,2.20
+32,San Pellegrino 330ml,Drink,2.80
+33,Orange Juice 250ml,Drink,2.60
+34,7Up 500ml,Drink,2.50
+35,Ginger Ale 330ml,Drink,2.60
+36,Chocolate Brownie,Dessert,4.50
+37,Nutella Pizza,Dessert,6.00
+38,Ice Cream Tub,Dessert,4.00
+39,Cookie Dough,Dessert,5.50
+40,Tiramisu,Dessert,5.00
