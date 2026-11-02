@@ -6,6 +6,10 @@ Built as an individual project for *Business Intelligence & Business Analytics* 
 
 > **Important:** all data is **synthetic** (generated with Mockaroo), and the before/after results are a **deliberate mock-up** of the improvement a live system would aim to deliver, not measured outcomes. See [Results and limitations](#results-and-limitations).
 
+## Demo video
+
+[Watch the project walkthrough on YouTube](https://www.youtube.com/watch?v=Q5ZIS2T9hJY)
+
 ## The business problem
 
 DoughCo's orders increasingly flow through Just Eat and Deliveroo, which charge 20-30% commission and keep the customer data. DoughCo had:
